@@ -1,0 +1,9 @@
+aircrack-ng - Mainly used for WEP/WPA/WPA2 key cracking in penetration testing.
+
+arping - Used for network discovery and troubleshooting.
+
+autopsy - Used for file recovery, timeline analysis, and evidence gathering.
+
+arpspoof - Used for Man-in-the-Middle (MITM) attacks.
+
+burpsuite - Used for web application penetration testing.
