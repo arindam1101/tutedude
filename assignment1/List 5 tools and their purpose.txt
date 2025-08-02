@@ -1,9 +1,12 @@
-aircrack-ng - Mainly used for WEP/WPA/WPA2 key cracking in penetration testing.
+aircrack-ng - Aircrack-ng is a suite of tools used to assess Wi-Fi network security. It captures wireless packets and attempts to crack WEP and WPA/WPA2-PSK keys using brute-force or dictionary attacks. It's commonly used by penetration testers to evaluate vulnerabilities in wireless networks. It supports various wireless interfaces and can work with packet injection.
 
-arping - Used for network discovery and troubleshooting.
+arping - arping - Arping sends ARP (Address Resolution Protocol) requests to a specified IP address to check if a host is active. Unlike regular ping (which uses ICMP), arping operates at the data link layer. It’s useful for network diagnostics in local area networks (LAN). Also helps in resolving IP-to-MAC mappings.
 
-autopsy - Used for file recovery, timeline analysis, and evidence gathering.
+autopsy - Autopsy is a digital forensic tool used to analyze hard drives and smartphones. It helps recover deleted files, analyze email, view browser history, and timeline events.
+It provides a user-friendly GUI for The Sleuth Kit (TSK) command-line tools. Used by law enforcement and forensic investigators.
 
-arpspoof - Used for Man-in-the-Middle (MITM) attacks.
+arpspoof - Arpspoof is a tool used to perform ARP spoofing attacks on a network. It redirects traffic between two devices (e.g., a victim and a gateway) through the attacker’s machine.
+This allows interception or modification of network data — a typical Man-in-the-Middle (MITM) tactic. It’s useful for testing network security and detection systems.
 
-burpsuite - Used for web application penetration testing.
+burpsuite - Burp Suite is an advanced web vulnerability scanner and proxy tool. It intercepts and modifies HTTP/S requests between browser and server to identify vulnerabilities.
+Used by ethical hackers for tasks like SQL injection, XSS testing, and session hijacking. Its powerful tools include Intruder, Repeater, and Scanner modules.
